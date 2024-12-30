@@ -16,9 +16,4 @@ Este é um programa simples em Java que solicita ao usuário dois números intei
 - Linguagem de programação: **Java 21**
 - IDE sugerida: **IntelliJ IDEA**, mas pode ser executado em qualquer IDE ou linha de comando com suporte a Java.
 
-## Como Executar
 
-1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado em sua máquina.
-2. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/CompararNumeros.git
